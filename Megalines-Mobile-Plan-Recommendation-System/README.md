@@ -58,5 +58,4 @@ Every observation in the dataset contains monthly behavior information about one
 
 ## Result
 
-Please have a look at the Jupyter Notebook included for a full description of results.
-
+For a comprehensive understanding of the outcomes and insights derived from this project, it is highly recommended to review the detailed documentation provided in the accompanying Jupyter Notebook.
