@@ -41,5 +41,7 @@ Decide where to set the significance level (alpha) on your own.
 
 ## Result
 
+For a comprehensive understanding of the outcomes and insights derived from this project, it is highly recommended to review the detailed documentation provided in the accompanying Jupyter Notebook.
+
 
 
