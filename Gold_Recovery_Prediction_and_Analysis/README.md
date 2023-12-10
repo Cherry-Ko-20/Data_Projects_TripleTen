@@ -5,7 +5,7 @@ This is the first independent project that I have worked on in the Triple Ten Da
 
 # Project Goal 
 
-The primary focus of the project was on predicting gold recovery rates using advanced data science techniques. This involved extensive data preprocessing, feature engineering, and the application of machine learning algorithms to develop a predictive model. 
+This project focuses on predicting the gold recovery process in a mining industry context. The goal is to develop a predictive Machine Learning model that estimates the efficiency of the gold recovery process at different stages and provides insights into the concentrations of various metals.
 
 # Project Description
 
