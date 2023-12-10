@@ -1,5 +1,6 @@
 # Oil Well Location Optimization for OilyGiant Mining Company
 
+This project is an individual undertaking, meaning that it is being carried out by a single person working independently, without collaboration or group involvement.
 
 ## Project Description
 
