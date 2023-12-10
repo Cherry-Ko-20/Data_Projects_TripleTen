@@ -1,5 +1,7 @@
 # Customer Churn Prediction for Beta Bank
 
+This project is an individual undertaking, meaning that it is being carried out by a single person working independently, without collaboration or group involvement.
+
 ## Project Description
 
 Beta Bank, a prominent financial institution, has been facing a growing issue - customers leaving the bank over time. As a cost-effective strategy, Beta Bank has decided to prioritize retaining existing customers over acquiring new ones. In order to achieve this, the bank aims to predict which customers are likely to leave soon. To tackle this challenge, we have access to historical data on customer behavior and contract terminations.
