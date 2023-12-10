@@ -1,5 +1,7 @@
 # Predicting Car Prices for Rusty Bargain A Machine Learning Approach
 
+This project is an individual undertaking, meaning that it is being carried out by a single person working independently, without collaboration or group involvement.
+
 ## Project Description
 
 Rusty Bargain used car sales service is developing an app to attract new customers. Within this application, users can efficiently ascertain the market value of their cars using available historical data, encompassing technical specifications, trim versions, and corresponding prices. The project's objective is to construct a model that facilitates the accurate determination of a car's value.
