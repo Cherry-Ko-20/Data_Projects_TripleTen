@@ -1,5 +1,7 @@
 # Machine Learning Application in Sure Tomorrow Insurance Company
 
+This project is an individual undertaking, meaning that it is being carried out by a single person working independently, without collaboration or group involvement.
+
 ## Description
 
 Sure Tomorrow, an insurance company, aims to leverage machine learning for various tasks. The project involves using linear algebra and ML to solve four key tasks: finding similar customers, predicting insurance benefits, using linear regression, and ensuring data privacy through data masking. The tasks demand data preprocessing, model development, and securing personal information.
