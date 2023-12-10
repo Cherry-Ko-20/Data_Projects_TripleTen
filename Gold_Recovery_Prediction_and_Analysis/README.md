@@ -17,7 +17,7 @@ gold_recovery_test.csv — test dataset
 
 gold_recovery_full.csv — source dataset 
 
-The data is provided by TripleTen, who took it from Kaggle and modified it.
+
 
 
 The project revolves around the prediction and analysis of gold recovery in a mining process. The data used for this project is stored in three files: gold_recovery_train.csv (training dataset), gold_recovery_test.csv (test dataset), and gold_recovery_full.csv (source dataset). The data is indexed by date and time of acquisition. It is observed that parameters measured closely in time are often similar. However, certain parameters may not be available in the test dataset, and the source dataset contains both training and test data with all features. The raw data is provided, which needs to be processed and validated before building the prediction model.
