@@ -10,6 +10,7 @@ This project focuses on predicting the gold recovery process in a mining industr
 # Project Description
 
 The data is stored in three files:
+
 gold_recovery_train.csv — training dataset 
 
 gold_recovery_test.csv — test dataset 
