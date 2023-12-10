@@ -1,5 +1,7 @@
 # Taxi Ride Data for Zuber's Launch in Chicago
 
+This project is an individual undertaking, meaning that it is being carried out by a single person working independently, without collaboration or group involvement.
+
 ## Project Description 
 
 The forthcoming ride-sharing enterprise poised for introduction in Chicago and the primary objective is to extract actionable insights from a comprehensive dataset encompassing details regarding taxi transportation within the urban landscape. This dataset encompasses several distinct tables, incorporating essential data concerning neighborhoods, taxi vehicles, trip particulars, and comprehensive weather records. The mission is to harness this data to inform strategic decisions and optimize Zuber's market entry and operational efficacy within the city of Chicago.
