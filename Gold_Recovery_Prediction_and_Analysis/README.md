@@ -1,6 +1,6 @@
 # Gold_Recovery_Prediction_and_Analysis
 
-This is the first independent project that I have worked on in the Triple Ten Data Science Program so far. Throughout this project, I delved into the complexities of gold recovery prediction and analysis, exploring various facets of data science to enhance my skills and knowledge.
+This project is an individual undertaking, meaning that it is being carried out by a single person working independently, without collaboration or group involvement.
 
 
 # Project Goal 
