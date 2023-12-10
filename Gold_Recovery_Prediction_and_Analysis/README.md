@@ -50,4 +50,5 @@ Build the Model:
 3.2. Train different models, evaluate their performance using cross-validation, select the best model, and test it using the test sample. Provide detailed findings based on the evaluation metrics.
 
 # Results 
-Please have a look at the Jupyter Notebook included for a full description of results.
+
+For a comprehensive understanding of the outcomes and insights derived from this project, it is highly recommended to review the detailed documentation provided in the accompanying Jupyter Notebook.
