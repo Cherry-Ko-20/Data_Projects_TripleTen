@@ -1,5 +1,6 @@
-# Megaline-Telecommunications-Usage-Analysis-and-Revenue-Optimization
+# Megaline Telecommunications Usage Analysis and Revenue Optimization
 
+This project is an individual undertaking, meaning that it is being carried out by a single person working independently, without collaboration or group involvement.
 
 ## Project description
 
