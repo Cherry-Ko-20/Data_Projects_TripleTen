@@ -8,7 +8,7 @@ Mobile carrier Megaline has found out that many of their subscribers use legacy 
 
 ## Goal
 
-Develop a model with the highest possible accuracy
+Megaline, a leading mobile carrier, initiated a project to enhance subscriber satisfaction by recommending personalized mobile plans. The objective was to develop a model with the highest possible accuracy to predict whether subscribers should switch to either the 'Smart' or 'Ultra' plan based on their behavior.
 
 
 ## Data description
