@@ -57,3 +57,6 @@ Every observation in the dataset contains monthly behavior information about one
 -`is_ultra` : plan for the current month (Ultra - 1, Smart - 0).
 
 ## Result
+
+Please have a look at the Jupyter Notebook included for a full description of results.
+
