@@ -1,5 +1,6 @@
 # Analyzing Video Game Sales for Strategic Advertising Planning at Ice Online Store
 
+This project is an individual undertaking, meaning that it is being carried out by a single person working independently, without collaboration or group involvement.
 
 ## Project description
 
