@@ -1,4 +1,4 @@
-# Gold_Recovery_Prediction_and_Analysis
+# Gold Recovery Prediction and Analysis
 
 This project is an individual undertaking, meaning that it is being carried out by a single person working independently, without collaboration or group involvement.
 
@@ -25,18 +25,28 @@ The project revolves around the prediction and analysis of gold recovery in a mi
 # Approaches for Gold Recovery Prediction
 
 Prepare the Data:
+
 1.1. Open and examine the data in the provided files.
+
 1.2. Validate the correctness of the recovery calculation. Calculate recovery for the rougher.output.recovery feature in the training set and find the Mean Absolute Error (MAE) compared to the feature values.
+
 1.3. Analyze features not present in the test set and determine their types.
+
 1.4. Perform data preprocessing to clean and prepare the data.
 
 Analyze the Data:
+
 2.1. Investigate how metal concentrations (Au, Ag, Pb) change at various purification stages.
+
 2.2. Compare the feed particle size distributions between the training and test sets to ensure accurate model evaluation.
+
 2.3. Examine the total concentrations of all substances at different stages and identify and eliminate any abnormal values that could affect the analysis.
 
+
 Build the Model:
+
 3.1. Develop a function to calculate the final sMAPE (Symmetric Mean Absolute Percentage Error) value.
+
 3.2. Train different models, evaluate their performance using cross-validation, select the best model, and test it using the test sample. Provide detailed findings based on the evaluation metrics.
 
 # Results 
