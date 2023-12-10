@@ -68,3 +68,5 @@ By executing these steps, Beta Bank aims to identify customers at risk of churni
 -`Exited` : сustomer has left
 
 ## Result 
+
+For a comprehensive understanding of the outcomes and insights derived from this project, it is highly recommended to review the detailed documentation provided in the accompanying Jupyter Notebook.
