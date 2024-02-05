@@ -1,4 +1,4 @@
-# Instacar Orders Exploratory Data Analysis
+# Instacart Orders Exploratory Data Analysis
 
 This project is an individual undertaking, meaning that it is being carried out by a single person working independently, without collaboration or group involvement.
 
