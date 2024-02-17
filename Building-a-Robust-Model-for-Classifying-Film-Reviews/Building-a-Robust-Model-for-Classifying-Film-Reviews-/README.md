@@ -1,4 +1,6 @@
-# Building-a-Robust-Model-for-Classifying-Film-Reviews-
+# Building-a-Robust-Model-for-Classifying-Film-Reviews
+
+The goal of this project is to develop a sentiment analysis model for movie reviews. The project specifically aims to identify negative movie reviews using machine learning techniques. The dataset provided includes IMDb movie reviews labeled with polarity (positive or negative).
 
 ## Project Structure
 Initialization and Data Loading:
